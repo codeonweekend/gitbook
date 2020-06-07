@@ -1,4 +1,4 @@
-[Sebelumnya]() | [Berikutnya]()
+Sebelumnya | [Berikutnya](dasar-dasar-git.md)
 # Version Control
 ***
 
@@ -10,4 +10,4 @@ Apa yang akan kamu lakukan jika mengalami hal diatas? Mungkin sebagian orang aka
 
 **Version control** merupakan sebuah sistem yang merekam perubahan-perubahan pada sebuah atau sekumpulan berkas dari waktu ke waktu. Sehingga ketika kamu dapat kembali melihat ke versi sebelumnya. Untuk mencatat hal tersebut dibutuhkan program yang bernama **Version Control System** (VCS). Ketika dihadapkan dalam pembuatan aplikasi yang besar dimana banyak orang berpartisipasi dalam project tersebut VCS akan membantu sekali dalam berkolaborasi, sekaligus monitoring bagaimana perkembangan pengembangan aplikasi.
 
-[Sebelumnya]() | [Berikutnya]()
+Sebelumnya | [Berikutnya](dasar-dasar-git.md)

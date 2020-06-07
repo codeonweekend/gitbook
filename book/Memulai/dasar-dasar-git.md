@@ -2,7 +2,7 @@
 # Dasar-dasar Git
 ***
 
-![Git Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png)
+![Git Icon](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
 **GIT** merupakan salah satu aplikasi *Version Control System* yang Git untuk melacak perubahan dalam *source code* selama pengembangan perangkat lunak. GIT dirancang agar programmer dapat saling bekerja sama, selain itu juga dapat digunakan untuk melacak perubahan dalam file apa pun. 
 
